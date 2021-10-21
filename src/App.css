@@ -70,27 +70,3 @@ button.add:hover{
   color: black;
   padding: 10px;
 }
-
-/*
-button{
-  font-size: 100px;
-  border-radius: 10px;
-  color: white;
-  box-shadow: 2px black; 
-  padding: 2px;
-}
-
-button.cancel{
-  background-color: red;
-  color: white;
-}
-button.delete{
-  background-color: red;
-  color: white;
-}
-button.edit{
-  background-color: green;
-  color: white;
-  padding: 10px;
-}
-*/
